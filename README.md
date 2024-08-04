@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Project's**
 
-- 🌱 I’m currently Pursuing **Master of Computer Application**
+- 🌱 **Master of Computer Application**
 
 - 📫 How to reach me **panchaljay802@gmail.com**
 
