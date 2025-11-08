@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypanchl18&label=Profile%20views&color=0e75b6&style=flat" alt="jaypanchl18" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Project's**
+- 🔭 I’m currently working as Python/AI/ML Developer**
 
 - 🌱 **Master of Computer Application**
 
